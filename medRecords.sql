@@ -7,19 +7,19 @@ CREATE TABLE patient(
 );
 
 CREATE TABLE doctors(
-  patient_id integer REFERENCES patient.id,
+  patient_id integer REFERENCES patient(id),
   phone varchar,
   email varchar,
   type varchar
 );
 
 CREATE TABLE allergies(
-  patient_id integer REFERENCES patient.id,
+  patient_id integer REFERENCES patient(id),
   allergies json
 );
 
 CREATE TABLE weight(
-  patient_id integer REFERENCES patient.id,
+  patient_id integer REFERENCES patient(id),
   date_weighed date,
   weight numeric(5,2)
 );
