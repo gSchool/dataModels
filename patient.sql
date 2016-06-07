@@ -26,7 +26,7 @@ CREATE TABLE allergies (
 );
 
 CREATE TABLE pt_info (
-    pt_id int references patients(id),
+    pt_id int REFERENCES patients(id),
     firstname varchar,
     lastname varchar,
     gender varchar(1),
@@ -34,9 +34,9 @@ CREATE TABLE pt_info (
 );
 
 CREATE TABLE pt_health (
-    pt_id int references patients(id),
+    pt_id int REFERENCES patients(id),
     weight smallint,
     last_weighed date,
     is_pregnant boolean,
-    allergies_id int references allergies(id)
+    allergies_id int REFERENCES allergies(id)
 );
