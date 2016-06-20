@@ -9,3 +9,4 @@ Through these exercises you should be able to Normalize data using first, second
 * Submit a pull request
 ```
 ![diagram 1](/diagram_1.jpg, "Diagram 1")
+![diagram 1](/diagram_2.jpg, "Diagram 1")
