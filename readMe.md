@@ -9,4 +9,5 @@ Through these exercises you should be able to Normalize data using first, second
 * Submit a pull request
 ```
 
-![Screenshot](Screen Shot 2016-06-20 at 11.17.38 AM.png)
+![Screenshot](Screen Shot 2016-06-20 at 11.33.50 AM.png)
+![Screenshot](Screen Shot 2016-06-20 at 11.33.56 AM.png)
