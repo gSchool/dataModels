@@ -9,3 +9,5 @@ Through these exercises you should be able to Normalize data using first, second
 * Submit a pull request
 ```
 ![alt tag](ScreenShot1.png)
+![alt tag](screenshot2.jpg)
+![alt tag](pic3.jpg)
