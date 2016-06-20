@@ -8,3 +8,5 @@ Through these exercises you should be able to Normalize data using first, second
 * Drop the screen shots/links of your data models into the readMe  (There should be 3)
 * Submit a pull request
 ```
+
+![Alt text](./commerce.JPG?raw=true "Commerce Exercise")
