@@ -10,3 +10,5 @@ Through these exercises you should be able to Normalize data using first, second
 ```
 
 ![alt patients](https://github.com/spogburn/dataModels/blob/master/images/patientsmodel.png)
+
+![alt products](https://github.com/spogburn/dataModels/blob/master/images/products.png)
